@@ -1,0 +1,10 @@
+flask>=2.3
+requests>=2.31
+pandas>=2.2
+matplotlib>=3.8
+setuptools>=65.0.0
+wheel
+ta>=0.10.1
+scikit-learn>=1.0.0
+numpy>=1.20.0
+joblib>=1.0.0
